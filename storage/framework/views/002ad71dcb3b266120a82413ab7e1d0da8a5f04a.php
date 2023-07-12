@@ -1,0 +1,1 @@
+<?php echo e($text); ?><?php /**PATH /home/u561154491/domains/builtinmysore.com/public_html/resources/views/vendor/mail/text/text.blade.php ENDPATH**/ ?>
